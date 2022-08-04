@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1659281169 source:d:\courses\c language\c_project\c_project.c
+	"c_project.h"
+
+1659261776 d:\courses\c language\c_project\std_types.h
+
+1659280821 d:\courses\c language\c_project\c_project.h
+	"STD_types.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1659280865 source:d:\courses\c language\c_project\main.c
+	"c_project.h"
+
+1659268428 d:\courses\c language\c_project\c_project.c
+	"STD_TYPES.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

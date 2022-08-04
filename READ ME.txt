@@ -1,0 +1,21 @@
+1-i assumed that all the input parameters to all the functions will be only numbers any input contain numbers and 
+characters the program will not work(all the numbers between 0 to 127 only because i used unsigned char).
+
+2-i changed some input paramerters in some functions to suit the way that i want to represent the code in.
+
+3-i challenged myself to do this code by linked list so i made the first node in the main function 
+first node as a first entry.
+
+4-i tried to keep the function in the shape that i saw in the pfd so may you find that i didnot use most of 
+the input parameters because all i need to access the linked list the pointer that point on first node . i tried to
+conntact with amit in ticket to ask about if i can change anything i want but no one answered me so i left all
+the input parameters in the functions like the pdf and i added the parameter that will serve my idea.
+
+5-i tried to fix all the bugs in the code i solved around 95% of them so when you run the program if you discovered
+a bug that will make the program freez probalby so run it agian without entering the condition that made that bug at
+ this moment the program will work perfectly.
+
+6-there is a bug i tried to fix it so hard but i didnot be able to understand the behaviour of the compilar
+entered double pointer to the fun add_entry alot of errors happens so in case if i wanted to delet the first node
+i cannot change the address of the pointer of the first node that the only bug that i have in the program.
+
